@@ -1,0 +1,30 @@
+<!--DTD FILE -->
+<!ELEMENT Transactions (shop+)>
+
+<!ELEMENT shop (Date*)>
+<!ATTLIST shop number CDATA #REQUIRED>
+
+<!ELEMENT Date (Transaction+)>
+<!ATTLIST Date date CDATA #REQUIRED>
+
+<!ELEMENT Transaction (value,key,customer*)>
+<!ATTLIST Transaction transactionID CDATA #REQUIRED>
+
+<!ELEMENT value (#PCDATA)>
+<!ATTLIST value currency CDATA #REQUIRED>
+
+<!ELEMENT customer (prefix,lastName,givenName,addressID)>
+<!ATTLIST customer customerID CDATA #REQUIRED>
+
+<!ELEMENT key (#PCDATA)>
+
+<!ELEMENT prefix (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT givenName (#PCDATA)>
+<!ELEMENT addressID (#PCDATA)>
+
+<!ENTITY mrs "Mrs" >
+<!ENTITY mr "Mr" >
+<!ENTITY mrs "Miss" >
+<!ENTITY dr "Dr" >
+<!ENTITY key "oTMWj2i5IDXy3xYmut1G">

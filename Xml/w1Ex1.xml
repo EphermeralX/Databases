@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<IMDb>
+    <!-- The movie "Home Alone"-->
+    <film category = "family/comedy">
+        <name lang = "en"> Home Alone </name>
+        <actor> Macaulay Culkin </actor>
+        <actor> Joe Percy </actor>
+        <actress> Jodelle Ferland </actress>
+        <actress> Debi Mazar </actress>
+        <year> 1990 </year>
+        <time unit = "min"> 103 </time>
+    </film>
+</IMDb>

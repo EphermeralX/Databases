@@ -1,0 +1,17 @@
+The ID of all scholars
+//Scholar/attribute::SID
+
+The nationality of the second scholar
+//Scholar[2]/child::Nationality
+
+The sex of scholars who are alive
+//Scholar/Age[@Status='Alive']/following-sibling::Sex
+
+Using the relative location path, retrieve the first profession of all scholars
+//Scholar/descendant::Profession[1]
+
+The ID of all-male scholars.
+//Scholar
+
+All attributes of the scholar age.
+//Scholar/Sex[text()='Male']/preceding-sibling::Age

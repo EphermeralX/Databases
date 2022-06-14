@@ -1,0 +1,76 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<root>
+	<page>41</page>
+	<total_results>4484</total_results>
+	<total_pages>225</total_pages>
+	<results>
+		<vote_count>543</vote_count>
+		<id>424783</id>
+		<video>false</video>
+		<vote_average>6.6</vote_average>
+		<title>Bumblebee</title>
+		<popularity>401.273</popularity>
+		<original_language>en</original_language>
+		<genres>
+			<genre_ids>28</genre_ids>
+			<genre_ids>12</genre_ids>
+			<genre_ids>878</genre_ids>
+		</genres>
+		<cast>
+			<cast-member firstName="Hailee" lastName="Steinfeld">
+				<character firstName="Charlie" lastName=""/>
+			</cast-member>
+			<cast-member firstName="Jorge" lastName="Lendeborg Jr.">
+				<character firstName="Memo" lastName=""/>
+			</cast-member>
+			<cast-member firstName="John" lastName="Cena">
+				<character firstName="Agent" lastName="Burns"/>
+			</cast-member>
+		</cast>
+		<adult>false</adult>
+		<overview>On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken.  When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</overview>
+		<release_date>2018-12-21</release_date>
+		<showing-in>
+			<cinema>Oxford</cinema>
+			<cinema>Birmingham</cinema>
+			<cinema>London</cinema>
+			<cinema>Liverpool</cinema>
+			<cinema>Edinburgh</cinema>
+		</showing-in>
+	</results>
+	<results>
+		<vote_count>2726</vote_count>
+		<id>338952</id>
+		<video>false</video>
+		<vote_average>6.9</vote_average>
+		<title>Fantastic Beasts: The Crimes of Grindelwald</title>
+		<popularity>228.871</popularity>
+		<original_language>en</original_language>
+		<genres>
+			<genre_ids>10751</genre_ids>
+			<genre_ids>14</genre_ids>
+			<genre_ids>12</genre_ids>
+		</genres>
+		<cast>
+			<cast-member firstName="Johnny" lastName="Depp">
+				<character firstName="" lastName="Grindelwald"/>
+			</cast-member>
+			<cast-member firstName="Kevin" lastName="Guthrie">
+				<character firstName="" lastName="Abernathy"/>
+			</cast-member>
+			<cast-member firstName="Eddie" lastName="Redmayne">
+				<character firstName="Newt" lastName="Scamander"/>
+			</cast-member>
+		</cast>
+		<adult>false</adult>
+		<overview>Gellert Grindelwald has escaped imprisonment and has begun gathering followers to his causeâ€”elevating wizards above all non-magical beings. The only one capable of putting a stop to him is the wizard he once called his closest friend, Albus Dumbledore. However, Dumbledore will need to seek help from the wizard who had thwarted Grindelwald once before, his former student Newt Scamander, who agrees to help, unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.</overview>
+		<release_date>2018-11-16</release_date>
+		<showing-in>
+			<cinema>Birmingham</cinema>
+			<cinema>Oxford</cinema>
+			<cinema>Leeds</cinema>
+			<cinema>London</cinema>
+			<cinema>Plymouth</cinema>
+		</showing-in>
+	</results>
+</root>

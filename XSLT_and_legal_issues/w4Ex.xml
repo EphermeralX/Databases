@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- The XSL association-->
+<?xml-stylesheet href="Scholars.xsl" type="text/xsl"?>
+
+<!-- External DTD -->
+<!DOCTYPE Scholars SYSTEM "Scholars.dtd">
+<Scholars>
+    <Scholar SID="cdut88031934" type="Scientist">
+        <Firstname>Jane</Firstname>
+        <Lastname>Goodall</Lastname>
+        <Nationality>British</Nationality>
+        <Birthplace/>
+        <Age Birthdate="April 3, 1934" Status="Alive" Deathdate="">88</Age>
+        <Sex>Female</Sex>
+        <Professions>
+            <Profession>
+                Zoology
+            </Profession>
+            <Profession>
+                Anthropology
+            </Profession>
+        </Professions>
+    </Scholar>
+
+    <Scholar SID="ucla70261946" type="Scientist">
+        <Fullname>Ahmed Zewail</Fullname>
+        <Nationality>Egyption &amp; American</Nationality>
+        <Birthplace/>
+        <Age Birthdate="February 26, 1946" Status="Dead" Deathdate="August 2, 2016">70</Age>
+        <Sex>Male</Sex>
+        <Professions>
+            <Profession>
+                Chemistry
+            </Profession>
+            <Profession>
+                Physics
+            </Profession>
+        </Professions>
+    </Scholar>
+</Scholars>

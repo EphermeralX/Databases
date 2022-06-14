@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- External DTD -->
+<!DOCTYPE Scholars SYSTEM "Scholars.dtd">
+<Scholars>
+    <Scholar SID="cdut20191801" type="Scientist">
+        <Firstname>Tony</Firstname>
+        <Lastname>Cheng</Lastname>
+        <Nationality>China</Nationality>
+        <Birthplace />
+        <Age Birsthdate="2000-11-19" Status="Alive" Deathdate="Unknown">21</Age>
+        <Sex>Male</Sex>
+        <Professions>
+            <Profession>
+                Student
+            </Profession>
+            <Profession>
+                Programmer
+            </Profession>
+        </Professions>
+    </Scholar>
+
+    <Scholar SID="ucla20191802" type="Scientist">
+        <Fullname>Amit Sahai</Fullname>
+        <Nationality>American</Nationality>
+        <Birthplace />
+        <Age Birsthdate="Unknown" Status="Alive" Deathdate="Unknown">45</Age>
+        <Sex>Male</Sex>
+        <Professions>
+            <Profession>
+                Professor
+            </Profession>
+        </Professions>
+    </Scholar>
+</Scholars>

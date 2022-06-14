@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<University>
+<Student>
+<firstname>Jacqueline Fernandas</firstname>
+<admissiondate>2019-02-09</admissiondate>
+</Student>
+<Student>
+<firstname>Thomas Erricson</firstname>
+<admissiondate>2020-06-06</admissiondate>
+</Student>
+<Student>
+<firstname>Divya Mary</firstname>
+<admissiondate>2020-03-08</admissiondate>
+</Student>
+<Student>
+<firstname>Anto David</firstname>
+<admissiondate>2020-07-04</admissiondate>
+</Student>
+<Student>
+<firstname>Rosellete</firstname>
+<admissiondate>2018-07-04</admissiondate>
+</Student>
+</University>

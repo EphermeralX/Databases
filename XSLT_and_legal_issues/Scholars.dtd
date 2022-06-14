@@ -1,0 +1,21 @@
+<!ELEMENT Scholars (Scholar)+>
+<!ELEMENT Scholar (((Firstname,Lastname)|Fullname),Nationality,Birthplace,Age,Sex,Professions)>
+<!ATTLIST Scholar SID ID #REQUIRED type CDATA #FIXED 'Scientist'>
+
+<!ELEMENT Firstname (#PCDATA)>
+<!ELEMENT Lastname (#PCDATA)>
+<!ELEMENT Fullname (#PCDATA)>
+
+<!ELEMENT Nationality (#PCDATA)>
+
+<!ELEMENT Birthplace EMPTY>
+
+<!ELEMENT Age (#PCDATA)>
+<!ATTLIST Age Status (Alive|Dead) 'Alive'>
+<!ATTLIST Age Birthdate CDATA #REQUIRED>
+<!ATTLIST Age Deathdate CDATA #IMPLIED>
+
+<!ELEMENT Sex (#PCDATA)>
+
+<!ELEMENT Professions (Profession+)>
+<!ELEMENT Profession (#PCDATA)>

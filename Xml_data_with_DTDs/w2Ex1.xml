@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE IMDb [
+    <!ELEMENT IMDb (film)*>
+    <!ELEMENT film (name+,actor*,actress*, year?,time?)>
+    <!ELEMENT name (#PCDATA)*>
+    <!ELEMENT actor (#PCDATA)*>
+    <!ELEMENT actress (#PCDATA)*>
+    <!ELEMENT year (#PCDATA)*>
+    <!ELEMENT time (#PCDATA)*>
+]>
+<IMDb>
+    <!-- The movie "The Shawshank Redemption"-->
+    <film>
+        <name> The Shawshank Redemption </name>
+        <actor> Tim Robbins </actor>
+        <actor> Morgan Freeman </actor>
+        <actor> Bob Gunton </actor>
+        <actress></actress>
+        <year> 1994 </year>
+        <time> 142 </time>
+    </film>
+
+    <!-- The movie "Home Alone"-->
+    <film>
+        <name> Home Alone </name>
+        <actor> Macaulay Culkin </actor>
+        <actor> Joe Percy </actor>
+        <actress> Jodelle Ferland </actress> 
+        <actress> Debi Mazar </actress>
+        <year> 1990 </year>
+        <time> 103 </time>
+    </film>
+    
+</IMDb>

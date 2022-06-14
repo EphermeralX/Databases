@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Events xmlns:file1="http://www.cdut.edu.cn/nm/week3/file1"
+xmlns:file2="http://www.cdut.edu.cn/nm/week3/file2">
+    <file1:Event>
+          <title>Books-Signing Event</title>
+          <date>Mar 15, 2022</date>
+    </file1:Event>
+
+    <file2:Event>
+        <title>Registration Event</title>
+        <date>Mar 10, 2022</date>
+    </file2:Event>
+
+</Events>

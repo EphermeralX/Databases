@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- External DTD -->
+<!DOCTYPE Customers SYSTEM "Customers.dtd">
+<Customers>
+    <customer>
+        <FirstName>Lawrence</FirstName>
+        <LastName>Aadimulam</LastName>
+        <FullName>Aadimulam, Lawrence</FullName>
+        <Cinema Region="Midlands" Country="England">Birmingham</Cinema>
+        <Film Certificate="12" Duration="123">Godzilla</Film>
+        <Tickets>1</Tickets>
+        <Date>26/07/2014</Date>
+        <Time>20:00:00</Time>
+    </customer>
+    
+    <customer>
+        <FirstName>John</FirstName>
+        <LastName>Abbott</LastName>
+        <FullName>Abbott, John</FullName>
+        <Cinema Region="South" Country="England">London</Cinema>
+        <Film Certificate="12A" Duration="89">Intro The Storm</Film>
+        <Tickets>3</Tickets>
+        <Date>02/07/2014</Date>
+        <Time>20:30:00</Time>
+    </customer>
+
+    <customer>
+        <FirstName>Simon</FirstName>
+        <LastName>Abraham</LastName>
+        <FullName>Abraham, Simon</FullName>
+        <Cinema Region="Midlands" Country="England">Birmingham</Cinema>
+        <Film Certificate="12A" Duration="107">If I Stay</Film>
+        <Tickets>2</Tickets>
+        <Date>24/08/2014</Date>
+        <Time>20:00:00</Time>
+    </customer>
+
+</Customers>

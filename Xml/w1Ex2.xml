@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+    <bookstore>
+        <!-- The book "Everyday Italian" -->
+        <book category="cooking">
+            <title lang="en">Everyday Italian</title>
+            <author>Giada De Laurentiis</author>
+            <year>2005</year>
+            <price>30.00</price>
+        </book>
+
+        <!-- The book "Harry Potter" -->
+        <book category="children">
+            <title lang="en">Harry Potter</title>
+            <author>J K. Rowling</author>
+            <year>2005</year>
+            <price>29.99</price>
+        </book>
+
+        <!-- The book "XQuery Kick Start" -->
+        <book category="web">
+            <title> lang="en">XQuery Kick Start </title>
+            <author>James McGovern</author>
+            <author>Per Bothner</author>
+            <author>Kurt Cagle</author>
+            <author>James Linn</author>
+            <author>Vaidyanathan Nagarajan</author>
+            <year>2003</year>
+            <price>49.99</price>
+        </book>
+
+        <!-- The book "Atomic Habits" -->
+        <book category="Human Development">
+            <title lang="en">Atomic Habits</title>
+            <author>James Clear</author>
+            <year>2018</year>
+            <price>21</price>
+        </book>
+
+        <!-- The book "Algorithm Design" -->
+        <book category="Programming">
+            <title lang="en">Algorithm Design</title>
+            <author>Jon Kleinberg &amp; Eva Tardos</author>
+            <year>2005</year>
+            <price>203.46</price>
+        </book>
+
+     </bookstore>

@@ -1,0 +1,17 @@
+<!ELEMENT Customers (customer)*>
+<!ELEMENT customer (FirstName, LastName, FullName, Cinema, Film, Tickets, Date, Time)>
+<!ELEMENT FirstName (#PCDATA)>
+<!ELEMENT LastName (#PCDATA)>
+<!ELEMENT FullName (#PCDATA)>
+
+<!ELEMENT Cinema (#PCDATA)>
+<!ATTLIST Cinema Region CDATA "Midlands">
+<!ATTLIST Cinema Country CDATA "England">
+
+<!ELEMENT Film (#PCDATA)>
+<!ATTLIST Film Duration CDATA #REQUIRED>
+<!ATTLIST Film Certificate CDATA #REQUIRED>
+
+<!ELEMENT Tickets (#PCDATA)>
+<!ELEMENT Date (#PCDATA)>
+<!ELEMENT Time (#PCDATA)>

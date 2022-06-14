@@ -1,0 +1,39 @@
+{"Scholars":
+    [{
+        "@SID": "cdut88031934",
+        "@type": "Scientist",
+        "Firstname": "Jane",
+        "Lastname": "Goodall",
+        "Nationality": "British",
+        "Age":{
+            "@Status": "Alive",
+            "@Birsthdate": "April 3, 1934",
+            "@Deathdate": "",
+            "#Age": 88
+        },
+        "Sex":"female",
+        "Professions":[
+        {"Profession":"Zoology"},
+        {"Profession":"Anthropology"}
+        ]
+    },
+    
+    {
+        "@SID": "ucla70261946",
+        "@type": "Scientist",
+        "Fullname": "Ahmed Zewail",
+        "Nationality": "Egyptian, American",
+        "Age":{
+            "@Status": "Dead",
+            "@Birsthdate": "February 26, 1946",
+            "@Deathdate": "August 2, 2016",
+            "#Age": 70
+        },
+        "Sex":"male",
+        "Professions":[
+        {"Profession":"Chemistry"},
+        {"Profession":"Physics"}
+        ]
+    }
+    ]
+    }
